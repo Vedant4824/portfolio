@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Resume (hosted externally)
+src/assets/Vedant_Resume.pdf
+
+# Environment variables
+.env
+.env.local
